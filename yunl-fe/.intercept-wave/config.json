@@ -1,0 +1,32 @@
+{
+    "version": "4.1",
+    "proxyGroups": [
+        {
+            "id": "5e47f354-cfac-4034-9066-465ccc77993a",
+            "name": "默认配置",
+            "protocol": "HTTP",
+            "port": 8888,
+            "routes": [
+                {
+                    "id": "41ba8ff6-d2a8-40f5-b909-992af107b58f",
+                    "name": "API",
+                    "pathPrefix": "/api",
+                    "targetBaseUrl": "http://localhost:8080",
+                    "stripPrefix": true,
+                    "enableMock": true,
+                    "mockApis": []
+                }
+            ],
+            "stripPrefix": true,
+            "globalCookie": "",
+            "enabled": true,
+            "wsBaseUrl": null,
+            "wsInterceptPrefix": null,
+            "wsManualPush": true,
+            "wsPushRules": [],
+            "wssEnabled": false,
+            "wssKeystorePath": null,
+            "wssKeystorePassword": null
+        }
+    ]
+}

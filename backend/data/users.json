@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "张三",
+    "age": 20,
+    "email": "zhang@example.com",
+    "phone": "13800138001"
+  },
+  {
+    "id": 2,
+    "name": "李四",
+    "age": 25,
+    "email": "li@example.com",
+    "phone": "13800138002"
+  },
+  {
+    "id": 3,
+    "name": "王五",
+    "age": 22,
+    "email": "wang@example.com",
+    "phone": "13800138003"
+  },
+  {
+    "id": 4,
+    "name": "赵六",
+    "age": 28,
+    "email": "zhao@example.com",
+    "phone": "13800138004"
+  },
+  {
+    "id": 5,
+    "name": "小明",
+    "age": 18,
+    "email": "xiaoming@example.com",
+    "phone": "13800138005"
+  },
+  {
+    "id": 6,
+    "name": "小红",
+    "age": 19,
+    "email": "xiaohong@example.com",
+    "phone": "13800138006"
+  },
+  {
+    "id": 7,
+    "name": "小刚",
+    "age": 21,
+    "email": "xiaogang@example.com",
+    "phone": "13800138007"
+  },
+  {
+    "id": 8,
+    "name": "小丽",
+    "age": 23,
+    "email": "xiaoli@example.com",
+    "phone": "13800138008"
+  },
+  {
+    "id": 9,
+    "name": "张三丰",
+    "age": 30,
+    "email": "zhangsf@example.com",
+    "phone": "13800138009"
+  },
+  {
+    "id": 10,
+    "name": "李寻欢",
+    "age": 35,
+    "email": "lixh@example.com",
+    "phone": "13800138010"
+  }
+]

@@ -1,0 +1,22 @@
+.user-management {
+  padding: 24px;
+  background: #fff;
+  min-height: 100vh;
+  max-width: 1400px;
+  margin: 0 auto;
+
+  .header-card {
+    margin-bottom: 24px;
+
+    h1 {
+      margin: 0;
+      font-size: 24px;
+      font-weight: 600;
+      color: #1f1f1f;
+    }
+  }
+
+  .table-card {
+    min-height: 400px;
+  }
+}
